@@ -14,7 +14,7 @@ font-family: Tahoma, Verdana, Arial, sans-serif; }
 <h1><a href="/">ErtixNodes</a></h1>
 <h3>Navigation</h3>
 <ul>
-{%- for post in collections.all -%}
+{%- for post in collections.all | sort -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
