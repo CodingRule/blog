@@ -1,10 +1,11 @@
 ---
+title: Home
 layout: base
+tags: base
 ---
-# ErtixNodes
-ErtixNodes
-Welcome to ErtixNodes
-ErtixNodes is a free vps hosting. We currenly work via Discord. To get your free vps, follow the instructions below:
+
+Welcome to ErtixNodes!
+ErtixNodes is a free vps hosting. We currenly work via Discord. To get your free vps, follow the instructions below!
 
 Join the discord server
 Go to the #cmds channel
