@@ -5,13 +5,8 @@ tags: base
 ---
 
 Welcome to ErtixNodes!
-ErtixNodes is a free vps hosting. We currenly work via Discord. To get your free vps, follow the instructions below!
+ErtixNodes is a free vps hosting.
 
-Join the discord server
-Go to the #cmds channel
-Execute the /create command
-Wait a few minutes
-Connect to your vps via the details the bot sends you
-Activate your vps by following the instructions given
-Use your vps for learning :D
-Join the discord server now!
+If you want a free vps, you can follow the guide: [How to get a free vps?](/free-vps)
+
+This website contains a lot of tutorials, all listed in the navigation above.
